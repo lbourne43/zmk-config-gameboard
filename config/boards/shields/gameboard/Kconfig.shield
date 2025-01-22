@@ -1,0 +1,2 @@
+config SHIELD_GAMEBOARD
+    def_bool $(shield_list_contains, gameboard)
